@@ -1,0 +1,5 @@
+※User <homero> ,PIN <1> work at : 13:25 ,work in: <60 seg> work on :  Sunday Monday Tuesday Wednesday Thursday Friday Saturday 
+
+※User <lisa> ,PIN <2> work at : 12:54 ,work in: <54 seg> work on :  Monday Tuesday Wednesday Thursday Friday Saturday 
+
+※User <bart> ,PIN <3> work at : 13:24 ,work in: <42 seg> work on :  Wednesday Thursday Friday Saturday 
