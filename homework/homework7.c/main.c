@@ -1,3 +1,10 @@
+/*First copy the main. c from my repository, then create 6 new 
+files with their respective names as I have them in my repository:
+registration.h ,input.txt,output.txt,registration.txt,report.txt 
+and additional.txt .Only copies and paste the code or text of each
+of those files.please leave a blank line after copying the repository 
+of the files than end in .txt*/
+
 #include "registration.h"
 
 #include <stdlib.h>
@@ -140,7 +147,7 @@ void registrar(){
     } while(h<0||h>23||min<0||min>60);
         
     do {
-        printf("\nSeconds worked\n");
+        printf("\nSeconds worked⇒ EXAMPLE: 60s\n");
         scanf("%d", &work);
     }while(work<=0||work>60);
     printf("(✔)(✔)\n\n");
