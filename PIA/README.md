@@ -1,24 +1,30 @@
-#CALCULADORA DE ÁREAS Y PERÍMETROS DE FIGURAS GEOMÉTRICAS 
+# CALCULATOR OF AREAS AND PERIMETERS OF GEOMETRIC FIGURES
 
-##Descripción: 
+## Description: 
+With the help of this program you can calculate the perimeter or area of any two-dimensional geometric figure you prefer.
 
-######Con ayuda de este programa usted podrá calcular el perímetro o área de cualquier figura geométrica de dos dimensiones que usted prefiera.
-Pueden ser:
+ _The geometric figures can be:_
 
-######Perímetro:
-   -Polígono estándar
-   -Polígono no estándar 
-######Área:
-   -Polígono estándar
-   -Polígono no estándar
+###### Perimeter:
+   - Standard polygon
+   - Non-standard polygon 
+###### Area:
+   - Standard polygon
+   - Non-standard polygon
 
-##Instrucción:
-   (1)Primero seleccionaras si quieres calcular un perímetro o un área 
-   (2.1)Perímetro:
-       (3.1) Ingresaras el número de lados del polígono a evaluar. 
-       (4.1) Darás valor a cada lado del polígono a calcular
-   (2.2)Área:
-       (3.2) Seleccionaras tu figura geométrica a evaluar 
-       (4.2) Ingresaras los datos solicitados dependiendo de tu elección de figura geométrica
+## Instruction:
+    (1) First select if you want to calculate a perimeter or an area 
+    
+    (2.1) Perimeter:
+       
+       (3.1) Enter the number of sides of the polygon to evaluate. 
+       
+       (4.1) You will give value to each side of the polygon to be calculated
+    
+    (2.2) Area:
+        
+        (3.2) You will select your geometric figure to evaluate 
+        
+        (4.2) You will enter the requested data depending on your choice of geometric figure
 
-##Proyecto Integrador de Aprendizaje   realizado por:  > ArantzaGizelle
+## Inclusive Learning Project by:ArantzaGizelle
