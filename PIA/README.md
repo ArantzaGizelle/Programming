@@ -17,7 +17,7 @@ With the help of this program you can calculate the perimeter or area of any two
     
     (2.1) Perimeter:
        
-       (3.1) Enter the number of sides of the polygon to evaluate. 
+       (3.1) select your geometric figure to evaluate, it could be Standard polygon or Non-standard polygon 
        
        (4.1) You will give value to each side of the polygon to be calculated
     
