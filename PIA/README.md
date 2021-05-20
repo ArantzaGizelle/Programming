@@ -1,4 +1,4 @@
-# CALCULATOR OF AREAS AND PERIMETERS OF GEOMETRIC FIGURES
+# GEOMETRIC CALCULATOR
 
 ## Description: 
 With the help of this program you can calculate the perimeter or area of any two-dimensional geometric figure that you prefer.
