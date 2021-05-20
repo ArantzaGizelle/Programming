@@ -1,9 +1,11 @@
 # GEOMETRIC CALCULATOR
 
-###### Demonstrative video of its operation:
-        
-        https://youtu.be/2DCFlixyOHs
-        
+## Demonstrative video of its operation:      
+
+
+  [you tube video](https://youtu.be/2DCFlixyOHs).
+
+
 ## Description: 
 With the help of this program you can calculate the perimeter or area of any two-dimensional geometric figure that you prefer.
 
