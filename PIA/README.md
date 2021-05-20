@@ -66,10 +66,10 @@ school onwards and will be essential for their studies.
 
 - [x] 1: Complexity 2 (In my opinion the level of difficulty of this program is greater since when wanting to calculate a figure not standard there is no formula defined and the program would have to solve it in a more creative way so there are no programs similar to this one for its complexity in that aspect)
 - [x] 2: Functionality 3 (Gives accurate and user-friendly results  )
-- [x] 3: code 3 (Is organized and understandable with comments to guide the viewer )
+- [x] 3: code 2 (Is organized and understandable with comments to guide the viewer )
 - [x] 4: Storage 2 (It is adequate for the operation that the user needs to perform)
 - [x] 5: Documentation 3 (It complies with the request and the duration of the video is exact)
 
-CF 13 de 15
+CF 12 de 15
 
 ## Inclusive Learning Project by:ArantzaGizelle
