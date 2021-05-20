@@ -1,5 +1,9 @@
 # GEOMETRIC CALCULATOR
 
+###### Demonstrative video of its operation:
+        
+        https://youtu.be/2DCFlixyOHs
+        
 ## Description: 
 With the help of this program you can calculate the perimeter or area of any two-dimensional geometric figure that you prefer.
 
@@ -25,10 +29,6 @@ school onwards and will be essential for their studies.
 ###### Order:
 
         1. < main.c >   ,  2.  < estandar.h >   , 3. < no_estandar.h >
-        
-###### Demonstration:
-        
-        https://youtu.be/2DCFlixyOHs
         
 ## Instruction:
 
